@@ -6,14 +6,14 @@ Before you begin, it's recommended to create a new virtual environment for this 
    
    - For **Windows**, open your command prompt and run:
      ```
-     python -m venv venv
+     python -m venv .venv
      ```
    
    - For **macOS/Linux**, open your terminal and run:
      ```
-     python3 -m venv venv
+     python3 -m venv .venv
      ```
-   Replace `venv` with the name you want to give to your virtual environment.
+   Replace `.venv` with the name you want to give to your virtual environment.
 
 2. **Activate the Virtual Environment:**
    
