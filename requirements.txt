@@ -1,0 +1,11 @@
+umap-learn==0.5.3 
+opencv-python 
+scikit-image 
+seaborn
+plotly
+dash
+python-dotenv
+requests
+pillow
+tensorflow
+
